@@ -1,0 +1,14 @@
+# Secret keys — never push these
+.env
+
+# Python virtual environment — too large
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
